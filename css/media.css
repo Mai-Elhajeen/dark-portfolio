@@ -1,0 +1,43 @@
+@media (max-width: 768px) {
+    /* start header */
+    .search{
+        display: none;
+    }
+    #header .head {
+        width: 50%;
+        text-align: left;
+        padding-left: 32px;
+        font-size: 10px;
+    }
+    .menu{
+        display: block;
+        width: 50%;
+        text-align: right;
+        padding-right: 32px;
+    }
+    nav.navbar {
+        float: none;
+        display: flex;
+        flex-direction: column;
+        width: 100% !important;
+        height: 100vh;
+        background: #fff;
+        float: none;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        transition: all .3s;
+        overflow: hidden;
+    }
+    .show-menu{
+        right: 0% !important;
+    }
+    #header .navbar .link, .icon{
+        color: #000000;
+    }
+    #header .navbar .link:hover{
+        background: #9a9898;
+        color: #000;
+    }
+
+}
