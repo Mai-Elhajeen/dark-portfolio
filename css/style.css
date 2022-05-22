@@ -274,3 +274,14 @@ footer .container{
     text-transform: lowercase;
 }
 /* end footer */
+
+/* ************* copy-right ************* */
+p.copy-right {
+    text-align: center;
+    color: #9a9898;
+    margin-bottom: 16px;
+    font-size: 14px;
+}
+.clear{
+    clear: both;
+}
