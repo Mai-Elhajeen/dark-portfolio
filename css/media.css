@@ -90,3 +90,20 @@
         padding: 12px 0;
     }
 }
+
+/* large screen */
+@media (min-width: 769px) and (max-width: 965px){
+    .navbar{
+        width: 80%;
+    }
+    .head{
+        width: 10%;
+    }
+    .search{
+        width: 10%;
+    }
+    #header .navbar .link {
+        padding: 0 12px;
+        font-size: 16px;
+    }
+}
