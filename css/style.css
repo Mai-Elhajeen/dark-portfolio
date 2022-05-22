@@ -206,3 +206,71 @@ span.tab:first-child{
     background: #ffff;
 }
 /* end main */
+
+/* ************* start footer ************* */
+footer {
+    width: 80%;
+    margin: auto;
+    color: #fff;
+    text-align: center;  
+    background: rgb(14 14 14 / 40%);
+    border-radius: 25px;
+}
+footer .container{
+    height: 100%;
+    padding: 20px 30px;
+    margin-bottom: 32px;
+}
+.nav-footer{
+    text-align: left;
+    text-transform: uppercase;
+}
+.social{
+    display: inline;
+    color: #9a9898;
+    font-size: 15px;
+    padding-right: 37px;
+}
+.nav-footer .link{
+    padding: 0 10px;
+    color: #adacac;
+    font-size: 15px;
+    transition: all .3s ease-in-out;
+}
+.nav-footer .link:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+.nav-footer .line{
+    border-left: 1px solid #9a9898;
+}
+.all-contant-footer{
+    width: 100%;
+    height: 80px;
+    margin-top: 32px;
+}
+.contant-footer{
+    float: left;
+    width: 47%;
+    margin-left: 3%;
+    text-align: left;
+    line-height: 1.5;
+}
+.copy{
+    text-transform: uppercase;
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.description{
+    color: #9a9898;
+    font-size: 15px;
+}
+.border{
+    border-left: 1px solid #fff;
+    padding-left: 40px;
+}
+.min{
+    text-transform: lowercase;
+}
+/* end footer */
