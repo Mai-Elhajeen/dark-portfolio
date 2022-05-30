@@ -1,4 +1,4 @@
-# Dark Porfolio
+# Dark Portfolio
 ![dark-portfolio](https://i.imgur.com/9qZtJxr.png)
 ***
 # About Dark Portfolio
@@ -19,7 +19,7 @@ That is through:
 
 ***
 # Live Website 📺
-check the website: [click here](https://)
+check the page: [click here](https://home-portfolio.netlify.app/)
 
 # Coding By:👩‍💻
 [Dev. Mai Elhajeen](https://github.com/Mai-Elhajeen)❤️‍🔥
